@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+numba
+joblib
+matplotlib
+pybind11    # build time only: provides the CMake package used to compile kfdnf_fast
